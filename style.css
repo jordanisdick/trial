@@ -1,0 +1,29 @@
+body{
+    /* background-color: #EEEEEE; */
+    background-color: blueviolet;
+}
+.user{
+    padding-left: 5%;
+    padding-right: 5%;
+    border: solid black 2px;
+    margin: auto;
+    width: fit-content;
+    margin-top: 10%;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 1.2%;
+}
+.form{
+    padding-left: 5%;
+    padding-right: 5%;
+    width: fit-content;
+    border: solid black 2px;
+    margin: auto;
+    margin-bottom: 5%;
+    text-align: center;
+    border-radius: 10px;
+}
+.bonkers{
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+}
